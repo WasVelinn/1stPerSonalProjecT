@@ -1,0 +1,16 @@
+데이터셋 소개
+Instacart 데이터셋 시각화
+데이터 병합 및 정제 과정
+DNN모델 설계
+
+numpy 1.23.5
+pandas
+matplotlib
+sklearn
+tensorflow 2.10.0
+
+연구의 결과 및 시사점
+연구 한계
+연구 한계
+향후 연구방향
+참고 문헌 및 데이터 출처
