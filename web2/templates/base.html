@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- favicon 설정 -->
+    <link href="/static/img/HuggingFace.png" rel="icon">
+    <!-- css 설정 -->
+    <link href="{{ url_for('static', path='static/css/styles.css') }}" rel="stylesheet">
+    <title>Title</title>
+</head>
+<body>
+  {% block content %}{% endblock %}
+  {% include "footer.html" %}
+</body>
+</html>
