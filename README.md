@@ -23,13 +23,13 @@
 </div>
 
 ## 목차
-[1. 주제선정 및 배경](http~)<br>
-[2. 프로젝트 배경 및 문제 제기](http~)<br>
-[3. 트렌드 파악(Naver openAPI)](http~)<br>
-[4. 워드 클라우드(자연어처리)](http~)<br>
-[5. 간트차트](http~)<br>
-[6. 데이터 시각화](http~)<br>
-[7. 모델 학습](http~)<br>
+[1. 주제선정 및 배경](https://github.com/WasVelinn/1stPerSonalProjecT?tab=readme-ov-file#1-%EC%A3%BC%EC%A0%9C%EC%84%A0%EC%A0%95-%EB%B0%8F-%EB%B0%B0%EA%B2%BD)<br>
+[2. 프로젝트 배경 및 문제 제기](https://github.com/WasVelinn/1stPerSonalProjecT?tab=readme-ov-file#2-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%EA%B2%BD-%EB%B0%8F-%EB%AC%B8%EC%A0%9C-%EC%A0%9C%EA%B8%B0)<br>
+[3. 트렌드 파악(Naver openAPI)](https://github.com/WasVelinn/1stPerSonalProjecT?tab=readme-ov-file#3-%ED%8A%B8%EB%A0%8C%EB%93%9C-%ED%8C%8C%EC%95%85naver-openapi)<br>
+[4. 워드 클라우드(자연어처리)](https://github.com/WasVelinn/1stPerSonalProjecT?tab=readme-ov-file#4-%EC%9B%8C%EB%93%9C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC)<br>
+[5. 간트차트](https://github.com/WasVelinn/1stPerSonalProjecT?tab=readme-ov-file#5-%EA%B0%84%ED%8A%B8%EC%B0%A8%ED%8A%B8)<br>
+[6. 데이터 시각화](https://github.com/WasVelinn/1stPerSonalProjecT?tab=readme-ov-file#6-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94)<br>
+[7. 모델 학습](https://github.com/WasVelinn/1stPerSonalProjecT?tab=readme-ov-file#7-%EB%AA%A8%EB%8D%B8-%ED%95%99%EC%8A%B5)<br>
 
 ## 1. 주제선정 및 배경
 
