@@ -22,4 +22,25 @@
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 
-## ppt 완성 후 수정할 예정
+## 목차
+[1. 주제선정 및 배경](http~)<br>
+[2. 프로젝트 배경 및 문제 제기](http~)<br>
+[3. 트렌드 파악(Naver openAPI)](http~)<br>
+[4. 워드 클라우드(자연어처리)](http~)<br>
+[5. 간트차트](http~)<br>
+[6. 데이터 시각화](http~)<br>
+[7. 모델 학습](http~)<br>
+
+## 1. 주제선정 및 배경
+
+## 2. 프로젝트 배경 및 문제 제기
+
+## 3. 트렌드 파악(Naver openAPI)
+
+## 4. 워드 클라우드(자연어처리)
+
+## 5. 간트차트
+
+## 6. 데이터 시각화
+
+## 7. 모델 학습
